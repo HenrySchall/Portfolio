@@ -4,5 +4,14 @@
   },
   "about.qmd": {
     "about.html": "3bdcd182"
+  },
+  "CV.qmd": {
+    "CV.html": "7e354b2a"
+  },
+  "Portfolio.qmd": {
+    "Portfolio.html": "eeaf14eb"
+  },
+  "Substack.qmd": {
+    "Substack.html": "3d6c36c6"
   }
 }
