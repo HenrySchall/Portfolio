@@ -8,8 +8,7 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-      - Portfolio.qmd
+      - Projects.qmd
       - Substack.qmd
       - CV.qmd
 
