@@ -1,20 +1,20 @@
 ---
 title: "Henrique Schall"
 about:
-  template: solana
+  template: jolla
   image: Photo.jpg
   image-shape: round
   image-width: 15em
-    links:
-    - icon: linkedIn
+  links:
+    - icon: linkedin.svg
       text: LinkedIn
       href: https://www.linkedin.com/in/henriqueschall/
-    
+      
     - icon: github
       text: Github
       href: https://github.com/HenrySchall
-    
-    - icon: substack
+      
+    - icon: substack.svg
       text: Substack
       href: https://henryschall.substack.com/
 ---

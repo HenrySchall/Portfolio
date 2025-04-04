@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Henrique Schall",
+    "title": "HenriqueSchall",
     "section": "",
-    "text": "This is a Henrique Schall website."
+    "text": "title: “Henrique Schall”\n\n\nabout:\n\n\ntemplate: solana\n\n\nimage: Photo.jpg\n\n\nimage-shape: round\n\n\nimage-width: 15em"
   },
   {
     "objectID": "about.html",
