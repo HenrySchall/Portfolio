@@ -10,7 +10,7 @@ website:
         text: Home
       - Projects.qmd
       - Substack.qmd
-      - CV.qmd
+      - Curriculum.qmd
 
 format:
   html:
