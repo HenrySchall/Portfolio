@@ -2,7 +2,7 @@
 title: "Henrique Schall"
 about:
   template: jolla
-  image: Photo.jpg
+  image: photo.jpg
   image-shape: round
   image-width: 15em
   links:
